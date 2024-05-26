@@ -18,7 +18,7 @@
 - npmmirror源（国内）
 
 ```txt
-https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5
+https://dl.sdkjf.site/https://raw.githubusercontent.com/lwhx/GDK_fly/main/dist/AIsouler_gkd.json5
 ```
 
 - GitHub源
